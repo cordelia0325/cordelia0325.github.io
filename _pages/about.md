@@ -49,7 +49,7 @@ I am a researcher passionate about **AI for Math**, **AI for Education** and **N
 - 🔭 **Current Research:** Developing a **Dual-Layer Cognitive Model** for math error diagnosis using Semantic Parsing and LLMs at **MBZUAI**.
 - 💡 **Interests:** Neuro-symbolic AI, Cognitive Modeling, Semantic Parsing, Educational Equity.
 
-Here is my [[[CV]](https://www.dropbox.com/scl/fi/8qt32w9cn1692sibxqttk/Curriculum_Vitae_for_PhD_Application.pdf?rlkey=o5yeom2cx73b4x9m0j3n5pdno&st=hmsa0ss1&dl=0)] 📑. Please Check ☺️!
+Here is my [[CV](https://www.dropbox.com/scl/fi/8qt32w9cn1692sibxqttk/Curriculum_Vitae_for_PhD_Application.pdf?rlkey=o5yeom2cx73b4x9m0j3n5pdno&st=hmsa0ss1&dl=0)] 📑. Please Check ☺️!
 
 ---
 
@@ -77,12 +77,12 @@ Here is my [[[CV]](https://www.dropbox.com/scl/fi/8qt32w9cn1692sibxqttk/Curricul
 - **Highlight:** Implemented a **2-level hierarchical error taxonomy** grounded in Newman's Error Analysis. Constructed a "Golden Dataset" by annotating LLM-generated error traces.
 - *(Note: Code snippets available; full codebase to be released upon publication.)*
 
-#### 2. [[Persona-LLM-Agent]](https://github.com/cordelia0325/humanized-conversation-with-big5-personality)
+#### 2. [Persona-LLM-Agent](https://github.com/cordelia0325/humanized-conversation-with-big5-personality)
 *A context-aware conversational agent simulating Big Five personality traits.*
 - **Core Tech:** `PEFT/LoRA`, `Reinforcement Learning`, `BERT`, `Llama-3`.
 - **Highlight:** Engineered a dual-component architecture (Memory Selector + Generator) to solve "persona drift," achieving **95.5% alignment accuracy** on Openness.
 
-#### 3. [[AB-Testing-trend-CUPAC-Framework]](https://github.com/cordelia0325/ab-testing-toolkit)
+#### 3. [AB-Testing-trend-CUPAC-Framework](https://github.com/cordelia0325/ab-testing-toolkit)
 *Robust trend detection and advanced variance reduction framework for large-scale online experimentation.*
 - **Core Tech:** `Python (Statsmodels, Scikit-learn)`, `Mann-Kendall Test`, `Sen's slope`, `Ordinary Least Squares with Newey-West (OLS-NW)`, `CUPED/CUPAC`, `Causal Inference`.
 
