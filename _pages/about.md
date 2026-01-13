@@ -10,21 +10,6 @@ redirect_from:
 
 ## Hi there 👋 I'm
 
-<!--
-**cordelia0325/cordelia0325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
   <h1>Chuqiao (Cordelia) Huang</h1>
   <p>
@@ -37,6 +22,7 @@ Here are some ideas to get you started:
   </a>
   <a href="https://www.linkedin.com/in/chuqiao-huang">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
 ---
@@ -71,7 +57,7 @@ Here is my [[CV](https://www.dropbox.com/scl/fi/8qt32w9cn1692sibxqttk/Curriculum
 
 ### 🚀 Featured Projects
 
-#### 1. [NeuroSym-Math-Diagnosis]
+#### 1. [NeuroSym-Math-Diagnosis](#) 
 *A Neuro-symbolic framework for diagnosing reasoning errors in K-12 math word problems.*
 - **Core Tech:** `Semantic Parsing`, `LLMs (Llama 3)`, `Graph Theory`.
 - **Highlight:** Implemented a **2-level hierarchical error taxonomy** grounded in Newman's Error Analysis. Constructed a "Golden Dataset" by annotating LLM-generated error traces.
