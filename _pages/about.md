@@ -1,31 +1,13 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About Me"
+title: "Overview"
+excerpt: "Overview"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## Hi there 👋 I'm
-
-<div align="center">
-  <h1>Chuqiao (Cordelia) Huang</h1>
-  <p>
-    <b>Aspiring Ph.D. Student in Computer Science</b><br>
-    <i>Bridging Applied Mathematics, Cognitive Science, and Neuro-symbolic AI.</i>
-  </p>
-
-  <a href="mailto:chuqiaohuang2025@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/chuqiao-huang">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
----
 
 ### 👩‍💻 About Me
 
