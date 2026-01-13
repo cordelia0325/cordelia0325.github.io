@@ -11,9 +11,9 @@ redirect_from:
 
 ### 👩‍💻 About Me
 
-I am a researcher passionate about **AI for Math**, **AI for Education** and **Neuro-symbolic Reasoning**. With a rigorous foundation in **Applied Mathematics** (Columbia University & UCSD), I aim to build interpretable AI systems that can diagnose student misconceptions with the precision of a human tutor.
+I am a researcher and prospective Ph.D. candidate passionate about **AI for Math**, **AI for Education** and **Neuro-symbolic Reasoning**. With a rigorous foundation in **Applied Mathematics** (Columbia University & UCSD), I aim to build interpretable AI systems that can diagnose student misconceptions with the precision of a human tutor.
 
-- 🎓 **Education:** M.S. in Applied Mathematics @ **Columbia University** (GPA: 4.0/4.33); B.S. in Mathematics @ **UC San Diego** (_cum laude_).
+- 🎓 **Education:** M.S. in Applied Mathematics @ **Columbia University** (GPA: 4.00/4.33); B.S. in Applied Mathematics @ **UC San Diego** (GPA: 3.86/4.00, _cum laude_).
 - 🔭 **Current Research:** Developing a **Dual-Layer Cognitive Model** for math error diagnosis using Semantic Parsing and LLMs at **MBZUAI**.
 - 💡 **Interests:** Neuro-symbolic AI, Cognitive Modeling, Semantic Parsing, Educational Equity.
 
